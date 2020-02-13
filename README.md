@@ -1,2 +1,13 @@
-# getting-started-with-the-react-scheduler
-A quick start react project that helps you to create a simple React Scheduler of Syncfusion, with data being populated from an external JSON file.
+# EJ2 React
+
+> Customer reported bugs automation in React platform.
+
+## Test Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:3000
+npm start
+```
