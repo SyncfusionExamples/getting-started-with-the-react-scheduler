@@ -1,5 +1,5 @@
-# React Scheduler - How to load appointments from a JSON file?
-A quick start React project that helps you to create a React Scheduler that loads its appointment data from an external JSON file.
+# React Scheduler - How to load appointments from a local JSON file?
+A quick start React project that helps you to create a React Scheduler that loads its appointment data from a local JSON file.
 
 ## Project pre-requisites
 Make sure that you have the compatible versions of React and NPM in your machine before starting to work on this project.
