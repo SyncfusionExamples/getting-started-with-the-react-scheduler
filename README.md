@@ -62,9 +62,9 @@ As a pure JavaScript component, the event scheduler integrates easily with any w
 [Pricing](https://www.syncfusion.com/sales/pricing?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
 [Documentation](https://ej2.syncfusion.com/react/documentation/schedule/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
 [View Demos](https://ej2.syncfusion.com/react/demos/#/bootstrap5/schedule/overview?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
-[Community Forums](https://www.syncfusion.com/forums/essential-js2/schedule?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
+[Community Forums](https://www.syncfusion.com/forums/essential-js2/schedule) <br/>
 [Knowledge base](https://support.syncfusion.com/kb/web/section/717?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
-[Suggest a feature](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples)
+[Suggest a feature](https://www.syncfusion.com/feedback/react)
 
 ## React Scheduler - How to load appointments from a local JSON file?
 
@@ -101,7 +101,7 @@ Run `npm start` command and navigate to `http://localhost:3000/`. The app will a
 
 ## About Syncfusion React UI Components
 
-Syncfusion's [React Components](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) library is the only suite that you will ever need to build an application since it contains over 150 high-performance, lightweight, modular, and responsive UI components in a single package. In addition to Scheduler, we provide popular React Components such as [DataGrid](https://www.syncfusion.com/react-components/react-data-grid?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), [Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), and [Diagram](https://www.syncfusion.com/react-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples)
+Syncfusion's [React Components](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) library is the only suite that you will ever need to build an application since it contains over 150 high-performance, lightweight, modular, and responsive UI components in a single package. In addition to Scheduler, we provide popular React Components such as [Data Grid](https://www.syncfusion.com/react-components/react-data-grid?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), [Charts](https://www.syncfusion.com/react-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), [Pivot Table](https://www.syncfusion.com/react-components/react-pivot-table?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), [AI Assistview](https://www.syncfusion.com/react-components/react-ai-assistview?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), and [Tree Grid](https://www.syncfusion.com/react-components/react-tree-grid?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples).
 ## About Syncfusion
 
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 38,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
