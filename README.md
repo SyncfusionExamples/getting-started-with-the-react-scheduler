@@ -1,6 +1,6 @@
 # About React Scheduler
 
-The [React Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), a.k.a. event calendar, facilitates almost all calendar features, thus allowing users to manage their time efficiently. It features easy resource scheduling, appointments rescheduling through editor pop-ups, drag and drop, and a resizing action. It includes wide variety of view modes with unique configuration options for each view. 
+The [React Scheduler](https://www.syncfusion.com/scheduler-sdk/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), a.k.a. event calendar, facilitates almost all calendar features, thus allowing users to manage their time efficiently. It features easy resource scheduling, appointments rescheduling through editor pop-ups, drag and drop, and a resizing action. It includes wide variety of view modes with unique configuration options for each view. 
 
 ## Features and Benefits
 
@@ -14,7 +14,7 @@ Data binds seamlessly with various [local and remote data sources](https://ej2.s
 
 ### Event handling options
 
-There is built-in support for better [event handling](https://www.syncfusion.com/react-components/react-scheduler/scheduler-events?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), such as easier appointment creation and editing using the default event editor or through intuitive drag-and-resize actions. Easily configurable recurring events to repeat on a daily, weekly, monthly, or yearly basis. Change the look and feel of events by customizing their default appearance and style using templates.
+There is built-in support for better [event handling](https://www.syncfusion.com/scheduler-sdk/react-scheduler/scheduler-events?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples), such as easier appointment creation and editing using the default event editor or through intuitive drag-and-resize actions. Easily configurable recurring events to repeat on a daily, weekly, monthly, or yearly basis. Change the look and feel of events by customizing their default appearance and style using templates.
 
 ### Drag and drop events
 
@@ -26,11 +26,11 @@ Easily extend a Scheduler event’s time by resizing either its start or end han
 
 ### Resource grouping
 
-Built-in support is available for assigning resources to events as well as [scheduling resources](https://www.syncfusion.com/react-components/react-scheduler/multiple-resources?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples). Group events and appointments based on resources or dates. Grouping resources by date provides a quick overview of each resource’s availability. You can also set different working days for each resource. A new compact layout for displaying resources on a mobile screen, brings clear visibility of events of each individual resource.
+Built-in support is available for assigning resources to events as well as [scheduling resources](https://www.syncfusion.com/scheduler-sdk/react-scheduler/multiple-resources?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples). Group events and appointments based on resources or dates. Grouping resources by date provides a quick overview of each resource’s availability. You can also set different working days for each resource. A new compact layout for displaying resources on a mobile screen, brings clear visibility of events of each individual resource.
 
 ### Timeline scheduling
 
-[Timeline scheduling](https://www.syncfusion.com/react-components/react-scheduler/timeline-view?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) plays a major role in the React Scheduler, as it displays resources in rows in a hierarchical tree-like structure with expand and collapse options. Its feature-rich calendar options, compact resource scheduling, and clear event representation allows you to employ it in various real-time applications. You can also display the year, month, and week number text labels on each individual header row of timeline views with out-of-the-box templates.
+[Timeline scheduling](https://www.syncfusion.com/scheduler-sdk/react-scheduler/timeline-view?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) plays a major role in the React Scheduler, as it displays resources in rows in a hierarchical tree-like structure with expand and collapse options. Its feature-rich calendar options, compact resource scheduling, and clear event representation allows you to employ it in various real-time applications. You can also display the year, month, and week number text labels on each individual header row of timeline views with out-of-the-box templates.
 
 ### Responsive and touch-friendly
 
@@ -57,8 +57,8 @@ As a pure JavaScript component, the event scheduler integrates easily with any w
 
 ## Related Links
 
-[Learn More about React Scheduler](https://www.syncfusion.com/react-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
-[Download Free Trial](https://www.syncfusion.com/downloads/essential-js2?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
+[Learn More about React Scheduler](https://www.syncfusion.com/scheduler-sdk/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
+[Download Free Trial](https://www.syncfusion.com/downloads/scheduler-sdk?tag=es-ft-react-scheduler-banner) <br/>
 [Pricing](https://www.syncfusion.com/sales/pricing?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
 [Documentation](https://ej2.syncfusion.com/react/documentation/schedule/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
 [View Demos](https://ej2.syncfusion.com/react/demos/#/bootstrap5/schedule/overview?utm_source=github&utm_medium=listing&utm_campaign=react-scheduler-github-samples) <br/>
